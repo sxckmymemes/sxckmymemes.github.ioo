@@ -82,7 +82,7 @@
 }
 .btn--download{
     background:url(images/download.png) no-repeat 220px ,-webkit-gradient(linear,left top,right top,from(#a269dd),to(#800dce));
-    background:url(images/download.png.navbar__button) no-repeat 220px ,linear-gradient(to right,#a269dd,#800dce);
+    background:url(images/download.png) no-repeat 220px ,linear-gradient(to right,#a269dd,#800dce);
     color:#fff;
     padding:0 0 0 22px;
     line-height:55px;
