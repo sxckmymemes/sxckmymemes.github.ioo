@@ -1,0 +1,4 @@
+<form action="/mail.php" method="post">
+<input type="text" name="imya">
+<input type="submit" value="Отправить">
+</form>	
